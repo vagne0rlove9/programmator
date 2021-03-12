@@ -1,0 +1,16 @@
+.container-home {
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home-button {
+    width: 400px;
+    height: 100px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+    .home-button:hover {
+        background-color: #BCBCBC;
+    }
